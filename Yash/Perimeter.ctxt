@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Perimeter
+comment1.params=
+comment1.target=void\ main()
+comment2.params=length\ breath
+comment2.target=void\ calculatePerimeter(int,\ int)
+comment3.params=side
+comment3.target=void\ calculatePerimeter(int)
+comment4.params=radius
+comment4.target=void\ calculatePerimeter(double)
+comment5.params=s1\ s2\ s3
+comment5.target=void\ calculatePerimeter(int,\ int,\ int)
+numComments=6

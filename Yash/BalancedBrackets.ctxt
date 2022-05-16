@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BalancedBrackets
+comment1.params=
+comment1.target=BalancedBrackets()
+comment2.params=len
+comment2.target=BalancedBrackets(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=ch
+comment4.target=boolean\ push(char)
+comment5.params=ch
+comment5.target=boolean\ pop(char)
+numComments=6

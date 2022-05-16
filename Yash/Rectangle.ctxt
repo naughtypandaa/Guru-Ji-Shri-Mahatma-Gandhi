@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=
+comment1.target=void\ main()
+comment2.params=r\ c
+comment2.target=void\ printRectangle(int,\ int)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Stacks3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=stack\ top\ a
+comment2.target=int\ push(int[],\ int,\ int)
+comment3.params=stack\ top
+comment3.target=int\ pop(int[],\ int)
+numComments=4

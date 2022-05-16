@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Area2
+comment1.params=
+comment1.target=void\ main()
+comment2.params=side
+comment2.target=void\ calculateArea(int)
+comment3.params=length\ breath
+comment3.target=void\ calculateArea(int,\ int)
+comment4.params=radius
+comment4.target=void\ calculateArea(double)
+numComments=5

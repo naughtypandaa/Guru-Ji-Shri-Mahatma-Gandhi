@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Triangle2
+comment1.params=
+comment1.target=void\ main()
+comment10.params=n
+comment10.target=void\ pattern9(int)
+comment2.params=n
+comment2.target=void\ pattern1(int)
+comment3.params=n
+comment3.target=void\ pattern2(int)
+comment4.params=n
+comment4.target=void\ pattern3(int)
+comment5.params=n
+comment5.target=void\ pattern4(int)
+comment6.params=n
+comment6.target=void\ pattern5(int)
+comment7.params=n
+comment7.target=void\ pattern6(int)
+comment8.params=n
+comment8.target=void\ pattern7(int)
+comment9.params=n
+comment9.target=void\ pattern8(int)
+numComments=11

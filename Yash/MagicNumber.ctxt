@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MagicNumber
+comment1.params=
+comment1.target=void\ main()
+comment2.params=num
+comment2.target=int\ magicNumber(int)
+numComments=3

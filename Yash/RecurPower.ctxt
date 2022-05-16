@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RecurPower
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ a
+comment2.target=int\ pow(int,\ int)
+numComments=3

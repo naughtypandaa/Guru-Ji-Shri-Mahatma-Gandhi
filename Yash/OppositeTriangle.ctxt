@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OppositeTriangle
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=void\ triangle1(int)
+comment3.params=n
+comment3.target=void\ triangle2(int)
+comment4.params=n
+comment4.target=void\ triangle3(int)
+comment5.params=n
+comment5.target=void\ triangle4(int)
+comment6.params=n
+comment6.target=void\ triangle5(int)
+comment7.params=n
+comment7.target=void\ triangle6(int)
+numComments=8

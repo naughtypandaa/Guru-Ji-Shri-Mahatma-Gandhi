@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Shape()
+comment3.params=name\ sides\ colour
+comment3.target=Shape(java.lang.String,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+numComments=5
